@@ -1,0 +1,23 @@
+{
+  "name": "react-native-google-static-map",
+  "version": "0.1.7",
+  "description": "A wrapper for Google's Static Maps",
+  "main": "GoogleStaticMap.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yelled3/react-native-google-static-map.git"
+  },
+  "files": [
+    "GoogleStaticMap.js",
+    "README.md"
+  ],
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios"
+  ],
+  "author": "Adam Farhi <yelled3@gmail.com> (https://github.com/yelled3)",
+  "peerDependencies": {
+    "react-native": ">=0.6.0"
+  }
+}
