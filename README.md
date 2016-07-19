@@ -47,7 +47,7 @@ and also any `Image.propTypes`.
 see: http://facebook.github.io/react-native/docs/image.html#props
 
 ## Demo
-![Demo](https://raw.githubusercontent.com/yelled3/react-native-google-static-map/master/Example/demo.png)
+![Demo](https://raw.githubusercontent.com/lukamarin/google-map-react-native/master/Example/demo.png)
 
 ## Example 
 See the example in the `Example` folder. 
